@@ -1,0 +1,6 @@
+name: transformer_repro
+dependencies:
+  intl_translation:
+transformers:
+- intl_translation:
+    $include: web/main.dart
